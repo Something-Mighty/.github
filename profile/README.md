@@ -13,10 +13,10 @@ We are an independent squad of seasoned game developers helping some of the best
 
 Our goal is to Inspire, Empower and Connect fellow developers, ourselves, and most importantly - our players. Together, we can dare to thrive.
 
-
 ---
 
 ## Our Repositories
 
 | Repository Name       | Description                                         |
 |-----------------------|-----------------------------------------------------|
+| [Something-Mighty/UE5-custom-rendering-guide](https://github.com/Something-Mighty/UE5-custom-rendering-guide) | The **Mighty Rendering Guide** is a comprehensive collection of samples and demos focused on custom rendering techniques in Unreal Engine 5. This repository serves as a practical learning resource for developers looking to master advanced rendering concepts in UE5. |
